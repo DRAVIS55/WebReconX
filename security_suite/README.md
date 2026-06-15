@@ -1,4 +1,4 @@
-#Pentest 2026-2027 — Security Audit Suite
+# Pentest 2026-2027 — Security Audit Suite
 
 A single Bash script (`deploy.sh`) that must pass before every production deployment.
 It runs three categories of tests: **vulnerability scanning**, **stress testing**, and **DDoS simulation**.
